@@ -1,0 +1,20 @@
+.BoxList {
+	text-align: center;
+}
+
+.Boxlist-form-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.Boxlist-box-container {
+	display: flex;
+	align-items: baseline;
+	justify-content: flex-start;
+	margin: 1rem 2rem;
+	width: 100%;
+	max-width: 1000px;
+	flex-wrap: wrap;
+}

@@ -1,0 +1,11 @@
+.Box {
+	margin: 1rem;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-start;
+}
+
+.Box-button {
+	color: crimson;
+	font-weight: bold;
+}
